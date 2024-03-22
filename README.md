@@ -10,7 +10,9 @@
 
 4. If you're going to use a CSS styles library, use Tailwindcss or a Tailwindcss-based library like [Preline](https://preline.co).
 
-5. See below for an example screenshot of the relevant project structure section to get an idea of what we're looking for. It's a screenshot of part of the on-going project open in Vs Code, - the same project you'll be working on if hired.
+5. Commit your code to Github and Share a link to your Github repository with us.
+
+6. See below for an example screenshot of the relevant project structure section to get an idea of what we're looking for. It's a screenshot of part of the on-going project open in Vs Code, - the same project you'll be working on if hired.
 
 ![screenshot](./screenshot_.png)
 
