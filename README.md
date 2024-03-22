@@ -10,7 +10,7 @@
 
 4. See below for an example screenshot of the relevant project structure section to get an idea of what we're looking for. It's a screenshot of the on-going project open in Vs Code, - the same project you'll be working on if hired.
 
-![screenshot](./screenshot.png)
+![screenshot](./screenshot_.png)
 
 ## Link to Figma File
 
